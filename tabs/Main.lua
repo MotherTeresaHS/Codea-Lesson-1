@@ -22,11 +22,11 @@ function draw()
     -- This sets a dark background color 
     background(0, 0, 255, 255)
 
+    -- sets the drawing parameters
     fill(240, 4, 44, 255)
     fontSize(50)
     font("Baskerville-BoldItalic")
     
-    -- Do your drawing here
+    -- prints text to the screen
     text("Hello, World!",500, 400)
 end
-
